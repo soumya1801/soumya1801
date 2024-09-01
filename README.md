@@ -14,13 +14,41 @@ My core competencies include Cloud Native Architecture, Microservices Design, En
 
 ### 🔧 Technical Skills
 
-- **Languages:** Java (17+), JavaScript
-- **Frameworks & Libraries:** Spring Boot, NodeJS, SAP CAP
-- **Cloud Platforms:** Azure, AWS, SAP BTP
-- **Databases:** Oracle, Postgres, Redis, SAP Hana Cloud
-- **Messaging Systems:** Apache Kafka, Event Mesh, IBM MQ
-- **DevOps Tools:** Kubernetes, Docker, Helm, Rancher, Cloud Foundry
-- **Other Tools:** Jira, Draw.io, Figma
+- **Languages:**  
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+- **Frameworks & Libraries:**  
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+  ![SAP CAP](https://img.shields.io/badge/SAP%20CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+- **Cloud Platforms:**  
+  ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+  ![AWS](https://img.shields.io/badge/Amazon%20AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+  ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+- **Databases:**  
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
+  ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+  ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)  
+  ![SAP Hana](https://img.shields.io/badge/SAP%20Hana-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+
+- **Messaging Systems:**  
+  ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)  
+  ![IBM MQ](https://img.shields.io/badge/IBM%20MQ-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+- **DevOps Tools:**  
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+  ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)  
+  ![Rancher](https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white)  
+  ![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-4285F4?style=for-the-badge&logo=cloudfoundry&logoColor=white)
+
+- **Other Tools:**  
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+  ![Draw.io](https://img.shields.io/badge/Draw.io-FF4500?style=for-the-badge&logo=draw-dot-io&logoColor=white)  
+  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🏆 Career Highlights
 
