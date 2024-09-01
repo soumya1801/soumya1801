@@ -1,22 +1,69 @@
-<h1 align="center">Hi 👋, I'm Soumya Ranjan Mishra</h1>
-<h3 align="center">A passionate Software lead developer from Bengaluru, India</h3>
+## Soumya Ranjan Mishra
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumya1801&label=Profile%20views&color=0e75b6&style=flat" alt="soumya1801" /> </p>
+### 🌐 Bangalore, India  
+📧 [Soumya.mishra1801@gmail.com](mailto:Soumya.mishra1801@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/soumyamishra2403/)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=soumya1801" alt="soumya1801" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Lang chain, LLM, AI**
+### 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Cloud Native Project**
+I am a seasoned Technical Architect with nearly 18 years of experience in designing and implementing cloud-based solutions and leveraging AI to drive business value. My journey spans diverse industries such as Public Sector, Pharmaceuticals, and Finance, where I've led cross-functional teams to deliver robust, scalable, and efficient technology solutions.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/soumya2403" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya2403" height="30" width="40" /></a>
-</p>
+My core competencies include Cloud Native Architecture, Microservices Design, Enterprise Integration, and Identity Management Frameworks. I have a strong track record of transforming business requirements into innovative technical solutions and have a deep understanding of cloud and AI industry trends.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🔧 Technical Skills
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumya1801&show_icons=true&locale=en&layout=compact" alt="soumya1801" /></p>
+- **Languages:** Java (17+), JavaScript
+- **Frameworks & Libraries:** Spring Boot, NodeJS, SAP CAP
+- **Cloud Platforms:** Azure, AWS, SAP BTP
+- **Databases:** Oracle, Postgres, Redis, SAP Hana Cloud
+- **Messaging Systems:** Apache Kafka, Event Mesh, IBM MQ
+- **DevOps Tools:** Kubernetes, Docker, Helm, Rancher, Cloud Foundry
+- **Other Tools:** Jira, Draw.io, Figma
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soumya1801&show_icons=true&locale=en" alt="soumya1801" /></p>
+### 🏆 Career Highlights
+
+- **Cloud-Native Applications:** Developed and optimized cloud-native applications using Azure and SAP BTP, with a focus on Java, Spring Boot, and NodeJS frameworks. Built CI/CD pipelines to enhance DevOps implementation.
+  
+- **Application Modernization:** Spearheaded the migration of monolithic architectures to microservices-based, cloud-native architectures. Expert in Domain-Driven Design and Event Storming for microservices design.
+
+- **Microservices Design:** Implemented various microservices design patterns like service mesh, circuit breaker, SAGA patterns, and API Gateway across multiple modules.
+
+- **Architecture Leadership:** As a Development Architect at SAP Labs India, led the design and implementation of scalable cloud solutions and drove the adoption of best practices to improve efficiency and competitiveness.
+
+- **Project Management:** Managed end-to-end project lifecycles, from pre-sales to production deployments, ensuring high performance and availability SLAs. Achieved significant cost savings and system performance improvements through optimization strategies.
+
+### 🚀 Experience
+
+**SAP LABS INDIA**  
+*Development Architect*  
+Dec 2021 - Present
+
+- Led cloud solution design for products like Sports One and Ariba.
+- Developed architectural blueprints and provided technical leadership to development teams.
+- Enhanced system performance by 10-15% through optimization strategies.
+
+**UNISYS INDIA**  
+*Architect*  
+Mar 2014 - Dec 2021
+
+- Led the Enterprise Biometric Identity System project, enabling multi-tenancy architecture and cloud-native migrations.
+- Achieved deployment time reduction by 200% through DevOps process definition.
+
+**Previous Roles:**
+- Senior Software Engineer at Accenture India Pvt. Ltd.
+- Associate Consultant at Oracle Financial Services Software Pvt. Ltd.
+- Team Leader at Neterson Technologies.
+
+### 🎓 Education
+
+- **PG Diploma in Data Science**  
+  IIIT Bangalore, 2017
+
+- **B.E. in Electronics & Communication Engineering**  
+  National Institute of Science and Technologies, Berhampur, Odisha, 2004
+
+### 🌟 Interests
+
+Passionate about cloud computing, AI advancements, and fostering innovation through technology. I enjoy exploring new cloud-native technologies and contributing to open-source projects that solve real-world challenges.
